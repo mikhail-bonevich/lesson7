@@ -1,0 +1,18 @@
+.header {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  background-color: aqua;
+}
+
+.header__title {
+  font-weight: 900;
+  font-size: 54px;
+  margin: 0 auto;
+  align-self: center;
+}
+
+.header__title:hover {
+  scale: 2;
+  color: yellow;
+}
